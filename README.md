@@ -1,7 +1,7 @@
 ## Olá, eu sou a Dani 👋
 
 - 🔭 Já fiz de tudo um pouco nesse mundo da TI, mas hoje trabalho com UI Design e Requisitos de Software
-- 🌱 Sou apaixonada por Java, mas atualmente estudando React pra aplicar o conhecimento em UI Design
+- 🌱 Sou apaixonada por Java, mas atualmente estudando React
   
 <!--
 - 👯 I’m looking to collaborate on ...
